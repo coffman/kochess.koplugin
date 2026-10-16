@@ -8,6 +8,17 @@ No ads. No cloud. Just chess.
 
 ---
 
+## Introduction
+
+**Kochess — Chess Plugin for KOReader**
+**Actively maintained Kochess plugin for KOReader**, designed for e-ink devices including Kobo, Kindle and other compatible readers.
+Kochess lets you play chess against Stockfish, review PGN games, explore openings and analyze positions — entirely offline.
+**Project status:** Actively maintained by Coffman.
+**KOReader integration:** Available through KOReader Community Plugins.
+Originally developed by bateast. This fork continues its development with new features, fixes and improvements.
+
+---
+
 ## 🚀 Features
 
 - ♞ Play against **Stockfish 11** (UCI engine)  
